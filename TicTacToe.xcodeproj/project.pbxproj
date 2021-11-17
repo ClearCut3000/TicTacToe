@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		362E006F27457ED3006D26C2 /* Screenshots in Resources */ = {isa = PBXBuildFile; fileRef = 362E006E27457ED2006D26C2 /* Screenshots */; };
 		365374B42745367D007158D1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 365374B32745367D007158D1 /* AppDelegate.swift */; };
 		365374B62745367D007158D1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 365374B52745367D007158D1 /* SceneDelegate.swift */; };
 		365374B82745367D007158D1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 365374B72745367D007158D1 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		362E006E27457ED2006D26C2 /* Screenshots */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Screenshots; sourceTree = SOURCE_ROOT; };
 		365374B02745367D007158D1 /* TicTacToe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TicTacToe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		365374B32745367D007158D1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		365374B52745367D007158D1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				365374BC27453682007158D1 /* Assets.xcassets */,
 				365374BE27453682007158D1 /* LaunchScreen.storyboard */,
 				365374C127453682007158D1 /* Info.plist */,
+				362E006E27457ED2006D26C2 /* Screenshots */,
 			);
 			path = TicTacToe;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				362E006F27457ED3006D26C2 /* Screenshots in Resources */,
 				365374C027453682007158D1 /* LaunchScreen.storyboard in Resources */,
 				365374BD27453682007158D1 /* Assets.xcassets in Resources */,
 				365374BB2745367D007158D1 /* Main.storyboard in Resources */,
